@@ -1,6 +1,4 @@
 ![logo](https://github.com/hirenkhasatiya/hirenkhasatiya/blob/main/github-header-image.png)
-
-
 <h1 align="center">Hi 👋, I'm Hiren Khasatiya</h1>
 <h3 align="center">I am Flutter Developer</h3>
 
